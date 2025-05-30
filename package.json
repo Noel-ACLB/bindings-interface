@@ -1,5 +1,5 @@
 {
-  "name": "@serialport/bindings-interface",
+  "name": "@noelneu/bindings-interface",
   "version": "0.0.0-development",
   "description": "SerialPort Bindings Typescript Types",
   "types": "dist/index.d.ts",
